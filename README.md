@@ -1,4 +1,4 @@
-# Leveraging-High-Frequency-Data-for-Epidemiological-Analysis
+# HighFreqDataEpi
 Data and source for the manuscript "Leveraging high frequency data for epidemiological analysis"
 
 # Leveraging High Frequency Data for Epidemiological Analysis
